@@ -1,0 +1,5 @@
+File name:  plain.txt
+Author: Sahar Al Seesi
+
+This is a text File
+This file will be used to illustrate how to read files using Node.js fs module and how to serve it up to the browser
