@@ -1,0 +1,8 @@
+Q1: Because the code is just reading a file.
+Q2: It reads plain.txt and prints what's inside.
+Q3: Because readFile is async.
+Q4: It changes the raw bytes into text we can read.
+Q5: The server can send the bytes directly. 
+Q6: Check the file extension and send the right content type automatically.
+Q7: First check if the request is for a file.
+ 
